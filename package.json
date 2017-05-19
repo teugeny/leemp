@@ -1,0 +1,19 @@
+[
+  "config",
+  "database",
+  "vendors/Mobile-Detect/",
+  "database/Migration",
+  "database/Seeder",
+  "database/Drivers",
+  "database/Eloquent",
+  "framework",
+  "framework/Exceptions",
+  "framework/Exceptions/Queue",
+  "framework/Exceptions/UserIP",
+  "framework/Exceptions/Recorder",
+  "framework/Modules",
+  "framework/Services",
+  "resources",
+  "tests",
+  "tests/GeoIP"
+]
